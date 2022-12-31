@@ -5,7 +5,7 @@ Stay tuned as I'll update this to reflect more details
 
 ### Privacy Policy
 
-Dialed In MTB [Privacy Policy](https://github.com/jasonhilimire/jasonhilimire.github.io/settings/pages). 
+Dialed In MTB [Privacy Policy](https://jasonhilimire.github.io/privacy). 
 
 ### Support or Contact
 
